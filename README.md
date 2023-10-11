@@ -26,7 +26,7 @@
   <a href="https://linkedin.com/in/xuanquy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-    <a href="https://github.com/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/Github-xqsadness-green?style=for-the-badge&logo=github"></a>
+    <a href="https://github.com/xqsadness" target="_blank"><img src="https://img.shields.io/badge/Github-xqsadness-green?style=for-the-badge&logo=github"></a>
 </div>
 
  <hr/>
