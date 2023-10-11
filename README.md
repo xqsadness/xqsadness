@@ -34,8 +34,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=swift,github,git,vscode,react,figma,r" />
-    <img src="https://skillicons.dev/icons?i=javascript,firebase,mongodb,java,mysql,bootstrap,mui,html,css," /><br>
+    <img src="https://skillicons.dev/icons?i=swift,github,git,vscode,mongodb,react,figma,r" />
+    <img src="https://skillicons.dev/icons?i=javascript,firebase,java,mysql,bootstrap,mui,html,css," /><br>
 </div>
 
 <br/>
@@ -55,7 +55,7 @@
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=xqsadness&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
 </div>
 
@@ -63,7 +63,7 @@
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;See+you+again!">
 </h3>
 
 <br/>
