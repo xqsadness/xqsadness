@@ -19,7 +19,7 @@
  </div>
 -->
 
-![snake gif](https://github.com/xqsadness/xqsadness/blob/output/github-contribution-grid-snake.gif)
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 
    <h2 align="center">Contact me</h2>
 <div align="center"> 
