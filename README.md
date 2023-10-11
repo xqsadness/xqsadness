@@ -44,6 +44,7 @@
 <br>
 <div align=center>
   <img src="https://streak-stats.demolab.com?user=xqsadness&theme=dark" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=xqsadness&theme=holi-theme" alt="GitHub Streak" />
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=xqsadness&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
 </div>
