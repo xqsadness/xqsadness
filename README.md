@@ -18,6 +18,7 @@
  
  </div>
 -->
+ <h2 align="center">Contact me</h2>
  
 <div align="center"> 
   <a href="mailto:xuanquy2433@gmail.com">
