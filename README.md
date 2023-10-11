@@ -29,6 +29,9 @@
     <a href="https://github.com/xqsadness" target="_blank"><img src="https://img.shields.io/badge/Github-xqsadness-green?style=for-the-badge&logo=github"></a>
     <a href="mailto:mailto:xuanquy2433@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-xuanquy2433@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
    </div>
+    <div>
+    <a href="mailto:mailto:xuanquy2433@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-xuanquy2433@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
+   </div>
 </div>
 
  <hr/>
