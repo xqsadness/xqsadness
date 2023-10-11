@@ -18,10 +18,9 @@
  
  </div>
 -->
- 
+
+   <h2 align="center">Contact me</h2>
 <div align="center"> 
-     <h2 align="center">Contact me</h2>
-    
   <a href="mailto:xuanquy2433@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
