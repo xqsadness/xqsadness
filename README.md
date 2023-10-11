@@ -19,6 +19,8 @@
  </div>
 -->
 
+![snake gif](https://github.com/xqsadness/xqsadness/blob/output/github-contribution-grid-snake.gif)
+
    <h2 align="center">Contact me</h2>
 <div align="center"> 
   <a href="https://linkedin.com/in/xuanquy" target="_blank">
