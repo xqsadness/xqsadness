@@ -4,6 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Xuan+Quy!;" />
 </h1>
 
+<p  align="right" >  Name: <i color="blue" > I am blue </i> </p> 
+
 <br/>
 
 <!-- 
