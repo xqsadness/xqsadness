@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=xasadness&style=for-the-badge" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!!;+I'm+Xuan+Quy!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!!!" />
 </h1>
 
 <p  align="right" >  Name: <i color="blue" > I am blue </i> </p> 
@@ -40,7 +40,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=swift,github,git,vscode,mongodb,react,java,figma,markdown,spring,netlify"/><br>
@@ -50,7 +50,7 @@
 <br/>
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">Stats</h2>
 <br>
 <div align=center>
   <img src="https://streak-stats.demolab.com?user=xqsadness&theme=dark" alt="GitHub Streak" />
