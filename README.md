@@ -62,15 +62,13 @@
 <br/><br/>
 <hr/>
 
+
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq?si=kE5rZK_iRRa-WNgjXwjjFg)
+</div>
+
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;+!!!">
 </h3>
 
 <br/>
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=0KROgbD0kfQ">
-    <img src="https://img.youtube.com/vi/0KROgbD0kfQ/0.jpg" alt="IMAGE ALT TEXT HERE" width="200" />
-  </a>
-</div>
-
