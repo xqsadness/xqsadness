@@ -62,11 +62,6 @@
 <br/><br/>
 <hr/>
 
-
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq?si=kE5rZK_iRRa-WNgjXwjjFg)
-</div>
-
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;+!!!">
 </h3>
