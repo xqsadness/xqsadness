@@ -6,13 +6,11 @@
 
 <p align="right">Name: <i color="blue">I am blue</i></p>
 
-[![Visit My Website](https://img.shields.io/badge/Visit%20My%20Website-%F0%9F%9A%80%20Click%20Here%20%F0%9F%91%89-orange?style=for-the-badge)](https://example.com)
-
-<br/>
-
 <a href="https://xqsadness.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Visit%20My%20Website-%F0%9F%9A%80%20Click%20Here%20%F0%9F%91%89-orange?style=for-the-badge" alt="Visit My Website"/>
 </a>
+
+<br/>
 
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/xqsadness/xqsadness/output/github-contribution-grid-snake.svg" />
 
