@@ -21,7 +21,7 @@
   <a href="https://linkedin.com/in/xuanquy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://www.instagram.com/_xuan_quy/" target="_blank">
+  <a href="https://www.instagram.com/xqsadness/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=red">
   </a>
   <div>
