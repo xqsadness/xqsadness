@@ -6,9 +6,9 @@
 
 <p align="right">Name: <i color="blue">I am blue</i></p>
 
-<p align="center">
+<p align="left">
     <a href="https://xqsadness.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Visit%20My%20Website-007bff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="My Website">
+    <img src="https://img.shields.io/badge/View%20Website-8e44ad?style=for-the-badge&logo=rocket&logoColor=white" alt="Live Site">
     </a>
 </p>
 
