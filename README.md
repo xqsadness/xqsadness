@@ -8,7 +8,7 @@
 
 <p align="left">
     <a href="https://xqsadness.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Website-8e44ad?style=for-the-badge&logo=rocket&logoColor=white" alt="Live Site">
+    <img src="https://img.shields.io/badge/%20-8e44ad?style=for-the-badge&logo=rocket&logoColor=white" alt="Live Site">
     </a>
 </p>
 
