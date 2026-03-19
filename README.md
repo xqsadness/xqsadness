@@ -6,7 +6,7 @@
 
 <!-- <p align="right"> <i color="blue">I am blue</i></p> -->
 
-<p align="center">
+<p align="left">
   <a href="https://xqsadness.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Main%20Site-8e44ad?style=flat-square" />
   </a>
