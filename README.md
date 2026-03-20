@@ -10,7 +10,7 @@
   <a href="https://xqsadness.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Main%20Site-8e44ad?style=flat-square" />
   </a>
-  <a href="https://freedom-mp3.netlify.app/" target="_blank">
+  <a href="https://freedom-mp3.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🎧%20Music-34495e?style=flat-square" />
   </a>
 </p>
