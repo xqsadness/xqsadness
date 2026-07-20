@@ -57,7 +57,7 @@
 <br>
 <div align="center">
     
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xqsadness&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=xqsadness&layout=compact&theme=tokyonight)
 
   <img src="https://streak-stats.demolab.com?user=xqsadness&theme=holi-theme" alt="GitHub Streak"/>
     <br/>
