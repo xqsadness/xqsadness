@@ -8,7 +8,7 @@
 
 <p align="left">
   <a href="https://xqsadness.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Main%20Site-8e44ad?style=flat-square" />
+    <img src="https://img.shields.io/badge/🌐%20-8e44ad?style=flat-square" />
   </a>
 </p>
 
@@ -57,12 +57,13 @@
 ![Top Langs](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=xqsadness&layout=compact&theme=tokyonight)
 
   <img src="https://streak-stats.demolab.com?user=xqsadness&theme=holi-theme" alt="GitHub Streak"/>
-    <br/>
+  <br/><br/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=xqsadness&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 
 </div>
 
 <br/><br/>
+
 <hr/>
 
 <h3 align="center">
